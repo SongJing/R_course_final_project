@@ -16,6 +16,7 @@ __Package reshape2 is needed to run the script__
 1. install.packages(""reshape2")
 
 __Run the R script ([run_analysis.R](run_analysis.R)).__
+The analysis script will take all the train and test data set and corresponding label to combine to be one big data table. It greps all mean and std related features and represent the label with activity description/dactor fashion.
 
 __The output of the R script is a tidy data set, [tidyData.txt](tidyData.txt).__
 
