@@ -17,6 +17,6 @@ __Package reshape2 is needed to run the script__
 
 __Run the R script ([run_analysis.R](run_analysis.R)).__
 
-__The output of the R script is a tidy data set, [tidyData.csv](tidyData.csv).__
+__The output of the R script is a tidy data set, [tidyData.txt](tidyData.txt).__
 
 __Attached [code book](CodeBook.md) for variable description.__
