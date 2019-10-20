@@ -37,4 +37,4 @@ meltedData <- melt(combined_dataset_and_label,(id.vars=c("subjectId","activity")
 secondTidyData <- dcast(meltedData, subjectId+activity ~ variable, mean)
 
 # Write data to file
-write.csv(secondTidyData, "TidyData.csv", row.names=FALSE)
+write.csv(secondTidyData, "TidyData.txt", row.names=FALSE)
