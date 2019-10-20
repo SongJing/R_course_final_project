@@ -1,6 +1,5 @@
 ---
 title: "Code book for analysis script"
-output: html_notebook
 ---
 ##Variables
 * 'features': List of all features.
