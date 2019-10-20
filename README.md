@@ -1,7 +1,8 @@
 # Getting and cleaning data course project
-##Author: S.J
 
-###escription
+## Author: S.J
+
+### escription
 Practice project for course [Getting and Cleaning Data](https://www.coursera.org/course/getdata).
 Free dataset comes from ["Human Activity Recognition Using Smartphones Data Set"](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
